@@ -18,5 +18,4 @@ A modern **AI-powered web app** that predicts whether a loan application will be
 
 ---
 
-## 🧩 Project Structure
 
