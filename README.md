@@ -1,4 +1,4 @@
-# 💎 Smart Loan Approval Prediction App
+# 💎 ApproveMe
 
 A modern **AI-powered web app** that predicts whether a loan application will be **approved or rejected** — built using **Streamlit**, **Python**, and **Machine Learning**.  
 
