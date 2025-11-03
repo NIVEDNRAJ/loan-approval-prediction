@@ -369,7 +369,7 @@ with st.sidebar:
 # 4. Header Banner
 st.markdown("""
     <div class="header-banner">
-        <h1>💎 Smart Loan Approval System</h1>
+        <h1>💎 ApproveMe</h1>
         <p>Get instant eligibility results with our AI-powered prediction engine</p>
     </div>
 """, unsafe_allow_html=True)
@@ -469,4 +469,5 @@ st.markdown("""
         <p style="font-size: 0.9rem;">© 2025 LEAD College MCA | Your privacy is our priority</p>
         <p style="font-size: 0.85rem; opacity: 0.6;">Built with ❤️ using Streamlit</p>
     </div>
+
 """, unsafe_allow_html=True)
